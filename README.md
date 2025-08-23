@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0441-arranging-coins](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0441-arranging-coins) |
 ## Linked List
 |  |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0066-plus-one](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0119-pascals-triangle-ii) |
@@ -77,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0915-generate-random-point-in-a-circle](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0915-generate-random-point-in-a-circle) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
