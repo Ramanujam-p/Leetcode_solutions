@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
+| [3617-find-the-original-typed-string-i](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3617-find-the-original-typed-string-i) |
 ## Binary Search
 |  |
 | ------- |
