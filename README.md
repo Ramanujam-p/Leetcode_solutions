@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0035-search-insert-position](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0367-valid-perfect-square](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0441-arranging-coins) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0118-pascals-triangle) |
