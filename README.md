@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0066-plus-one](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0118-pascals-triangle) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0141-linked-list-cycle) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
