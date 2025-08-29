@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0015-3sum](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0015-3sum) |
 | [0066-plus-one](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0119-pascals-triangle-ii) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0015-3sum) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -164,4 +166,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0342-power-of-four) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
