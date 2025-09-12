@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1635-number-of-good-pairs) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2608-count-the-digits-that-divide-a-number) |
+| [3462-vowels-game-in-a-string](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3462-vowels-game-in-a-string) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 ## String
 |  |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-determine-color-of-a-chessboard-square](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
+| [3462-vowels-game-in-a-string](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3462-vowels-game-in-a-string) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 | [3617-find-the-original-typed-string-i](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3617-find-the-original-typed-string-i) |
 ## Binary Search
@@ -278,9 +280,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0292-nim-game](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0292-nim-game) |
 | [1086-divisor-game](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1086-divisor-game) |
+| [3462-vowels-game-in-a-string](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3462-vowels-game-in-a-string) |
 ## Game Theory
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0292-nim-game) |
 | [1086-divisor-game](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1086-divisor-game) |
+| [3462-vowels-game-in-a-string](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3462-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
