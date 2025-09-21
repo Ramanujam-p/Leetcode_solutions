@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0283-move-zeroes) |
+| [0506-relative-ranks](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0506-relative-ranks) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0941-sort-array-by-parity](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0948-sort-an-array) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0217-contains-duplicate) |
+| [0506-relative-ranks](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0506-relative-ranks) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0941-sort-array-by-parity](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0948-sort-an-array) |
@@ -355,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0506-relative-ranks](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0506-relative-ranks) |
 | [0948-sort-an-array](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0948-sort-an-array) |
 ## Merge Sort
 |  |
