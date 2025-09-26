@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2037-count-square-sum-triples](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2037-count-square-sum-triples) |
 | [2481-strictly-palindromic-number](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2481-strictly-palindromic-number) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2608-count-the-digits-that-divide-a-number) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3462-vowels-game-in-a-string](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3462-vowels-game-in-a-string) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 ## String
@@ -392,4 +393,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0948-sort-an-array) |
+## Backtracking
+|  |
+| ------- |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2802-find-the-punishment-number-of-an-integer) |
 <!---LeetCode Topics End-->
