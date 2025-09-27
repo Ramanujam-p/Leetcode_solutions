@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0342-power-of-four) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0441-arranging-coins) |
 ## Linked List
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0506-relative-ranks](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0506-relative-ranks) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0780-max-chunks-to-make-sorted) |
@@ -196,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0268-missing-number) |
 | [0782-jewels-and-stones](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0782-jewels-and-stones) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -311,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0342-power-of-four) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1610-xor-operation-in-an-array](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1610-xor-operation-in-an-array) |
@@ -323,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0268-missing-number) |
 | [0506-relative-ranks](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0506-relative-ranks) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0941-sort-array-by-parity](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0941-sort-array-by-parity) |
