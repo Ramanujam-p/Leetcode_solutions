@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1635-number-of-good-pairs) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [2037-count-square-sum-triples](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2037-count-square-sum-triples) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2481-strictly-palindromic-number](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2481-strictly-palindromic-number) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2802-find-the-punishment-number-of-an-integer) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1791-richest-customer-wealth](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1791-richest-customer-wealth) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3797-design-spreadsheet](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3797-design-spreadsheet) |
 ## Matrix
@@ -429,8 +431,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0415-add-strings) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Number Theory
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0258-add-digits) |
+## Combinatorics
+|  |
+| ------- |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 <!---LeetCode Topics End-->
