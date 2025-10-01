@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0367-valid-perfect-square) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0412-fizz-buzz](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0441-arranging-coins) |
 | [0915-generate-random-point-in-a-circle](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0915-generate-random-point-in-a-circle) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0344-reverse-string) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0412-fizz-buzz](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0415-add-strings) |
 | [0541-reverse-string-ii](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -431,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0415-add-strings) |
 | [1642-water-bottles](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1642-water-bottles) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2324-find-triangular-sum-of-an-array) |
