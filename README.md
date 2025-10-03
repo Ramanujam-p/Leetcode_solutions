@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0073-set-matrix-zeroes) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0118-pascals-triangle) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0088-merge-sorted-array) |
@@ -266,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0145-binary-tree-postorder-traversal) |
@@ -404,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0316-remove-duplicate-letters) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1159-smallest-subsequence-of-distinct-characters) |
