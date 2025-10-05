@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2037-count-square-sum-triples](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2037-count-square-sum-triples) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2481-strictly-palindromic-number](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2481-strictly-palindromic-number) |
+| [2556-convert-the-temperature](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2556-convert-the-temperature) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3462-vowels-game-in-a-string](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3462-vowels-game-in-a-string) |
