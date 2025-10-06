@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2836-neither-minimum-nor-maximum](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2836-neither-minimum-nor-maximum) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3797-design-spreadsheet](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3797-design-spreadsheet) |
 ## Matrix
@@ -383,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1137-height-checker](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1137-height-checker) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [2836-neither-minimum-nor-maximum](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2836-neither-minimum-nor-maximum) |
 ## Greedy
 |  |
 | ------- |
