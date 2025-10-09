@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0171-excel-sheet-column-number) |
 | [0316-remove-duplicate-letters](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0415-add-strings) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0387-first-unique-character-in-a-string](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0782-jewels-and-stones](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0782-jewels-and-stones) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1635-number-of-good-pairs](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1635-number-of-good-pairs) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -362,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0387-first-unique-character-in-a-string](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Sliding Window
 |  |
 | ------- |
