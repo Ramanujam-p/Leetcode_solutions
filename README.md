@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1086-divisor-game](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1086-divisor-game) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1610-xor-operation-in-an-array](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1610-xor-operation-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1635-number-of-good-pairs) |
 | [1642-water-bottles](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1642-water-bottles) |
@@ -391,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0342-power-of-four) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1610-xor-operation-in-an-array](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1610-xor-operation-in-an-array) |
 ## Sorting
 |  |
