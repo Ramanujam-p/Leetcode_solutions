@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2608-count-the-digits-that-divide-a-number](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2802-find-the-punishment-number-of-an-integer) |
+| [3371-harshad-number](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3371-harshad-number) |
 | [3462-vowels-game-in-a-string](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3462-vowels-game-in-a-string) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 | [3567-convert-date-to-binary](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3567-convert-date-to-binary) |
