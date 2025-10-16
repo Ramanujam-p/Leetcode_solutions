@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 | [3567-convert-date-to-binary](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3567-convert-date-to-binary) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3918-check-divisibility-by-digit-sum-and-product](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3995-gcd-of-odd-and-even-sums) |
 ## String
 |  |
