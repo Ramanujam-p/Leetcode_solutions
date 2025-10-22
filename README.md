@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0392-is-subsequence) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0415-add-strings) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0198-house-robber) |
+| [0392-is-subsequence](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0392-is-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0678-valid-parenthesis-string) |
 | [1086-divisor-game](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1086-divisor-game) |
 ## Two Pointers
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0680-valid-palindrome-ii) |
