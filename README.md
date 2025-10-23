@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3462-vowels-game-in-a-string](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3462-vowels-game-in-a-string) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 | [3567-convert-date-to-binary](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3567-convert-date-to-binary) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3995-gcd-of-odd-and-even-sums) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 | [3567-convert-date-to-binary](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3567-convert-date-to-binary) |
 | [3617-find-the-original-typed-string-i](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3617-find-the-original-typed-string-i) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3797-design-spreadsheet](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Binary Search
@@ -546,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-water-bottles](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1642-water-bottles) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2324-find-triangular-sum-of-an-array) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Number Theory
 |  |
 | ------- |
@@ -555,11 +558,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2491-smallest-even-multiple](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2507-number-of-common-factors) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3995-gcd-of-odd-and-even-sums) |
 ## Combinatorics
 |  |
 | ------- |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2324-find-triangular-sum-of-an-array) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Prefix Sum
 |  |
 | ------- |
