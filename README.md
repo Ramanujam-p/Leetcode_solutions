@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1610-xor-operation-in-an-array](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1610-xor-operation-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1635-number-of-good-pairs) |
 | [1642-water-bottles](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1642-water-bottles) |
+| [1817-calculate-money-in-leetcode-bank](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2037-count-square-sum-triples](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2037-count-square-sum-triples) |
