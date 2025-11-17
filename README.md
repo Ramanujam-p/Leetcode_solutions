@@ -372,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0226-invert-binary-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0783-search-in-a-binary-search-tree) |
 ## Depth-First Search
@@ -387,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0226-invert-binary-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0775-n-ary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
@@ -402,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0226-invert-binary-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0783-search-in-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
