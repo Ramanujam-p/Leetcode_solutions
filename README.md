@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0392-is-subsequence) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0412-fizz-buzz) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0389-find-the-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0782-jewels-and-stones](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0782-jewels-and-stones) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -451,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0342-power-of-four) |
+| [0389-find-the-difference](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
@@ -469,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0414-third-maximum-number) |
 | [0506-relative-ranks](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
