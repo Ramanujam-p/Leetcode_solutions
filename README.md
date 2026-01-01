@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1677-matrix-diagonal-sum](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1677-matrix-diagonal-sum) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1791-richest-customer-wealth](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1791-richest-customer-wealth) |
+| [1929-concatenation-of-array](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1929-concatenation-of-array) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -601,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0898-transpose-matrix) |
 | [1642-water-bottles](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1642-water-bottles) |
 | [1806-count-of-matches-in-tournament](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1806-count-of-matches-in-tournament) |
+| [1929-concatenation-of-array](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1929-concatenation-of-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
