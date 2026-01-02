@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Linked List
 |  |
 | ------- |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2836-neither-minimum-nor-maximum](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2836-neither-minimum-nor-maximum) |
 | [3024-type-of-triangle](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3024-type-of-triangle) |
@@ -365,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1635-number-of-good-pairs) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Geometry
