@@ -295,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0392-is-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0678-valid-parenthesis-string) |
 | [1086-divisor-game](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1086-divisor-game) |
+| [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1931-painting-a-grid-with-three-different-colors](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1931-painting-a-grid-with-three-different-colors) |
 ## Two Pointers
 |  |
