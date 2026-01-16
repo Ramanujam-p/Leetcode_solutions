@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0915-generate-random-point-in-a-circle](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0915-generate-random-point-in-a-circle) |
+| [0989-add-to-array-form-of-integer](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0989-add-to-array-form-of-integer) |
 | [1018-largest-perimeter-triangle](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1086-divisor-game](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1086-divisor-game) |
 | [1115-valid-boomerang](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1115-valid-boomerang) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0948-sort-an-array) |
 | [0958-sort-array-by-parity-ii](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0958-sort-array-by-parity-ii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0989-add-to-array-form-of-integer](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0989-add-to-array-form-of-integer) |
 | [1018-largest-perimeter-triangle](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1019-squares-of-a-sorted-array](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1019-squares-of-a-sorted-array) |
