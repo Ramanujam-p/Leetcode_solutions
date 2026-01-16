@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0441-arranging-coins) |
 | [0504-base-7](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0504-base-7) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0915-generate-random-point-in-a-circle](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0915-generate-random-point-in-a-circle) |
 | [1018-largest-perimeter-triangle](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1086-divisor-game](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1086-divisor-game) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0704-binary-search) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0898-transpose-matrix](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0898-transpose-matrix) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0941-sort-array-by-parity](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0948-sort-an-array) |
 | [0958-sort-array-by-parity-ii](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0958-sort-array-by-parity-ii) |
@@ -364,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0645-set-mismatch) |
 | [0697-degree-of-an-array](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0697-degree-of-an-array) |
 | [0782-jewels-and-stones](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0782-jewels-and-stones) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1207-unique-number-of-occurrences](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -386,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1635-number-of-good-pairs](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1635-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1748-sum-of-unique-elements) |
@@ -674,6 +678,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0258-add-digits) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [2083-three-divisors](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2491-smallest-even-multiple](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2491-smallest-even-multiple) |
