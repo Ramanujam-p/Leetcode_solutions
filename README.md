@@ -277,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1677-matrix-diagonal-sum](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1791-richest-customer-wealth) |
 | [1975-maximum-matrix-sum](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1975-maximum-matrix-sum) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [3797-design-spreadsheet](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3797-design-spreadsheet) |
 ## Dynamic Programming
 |  |
@@ -400,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2351-first-letter-to-appear-twice](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2351-first-letter-to-appear-twice) |
