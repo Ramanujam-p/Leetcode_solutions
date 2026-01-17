@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0231-power-of-two) |
+| [0233-number-of-digit-one](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0233-number-of-digit-one) |
 | [0258-add-digits](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0268-missing-number) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0231-power-of-two) |
+| [0233-number-of-digit-one](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0233-number-of-digit-one) |
 | [0326-power-of-three](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0509-fibonacci-number) |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0198-house-robber) |
+| [0233-number-of-digit-one](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0233-number-of-digit-one) |
 | [0392-is-subsequence](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0678-valid-parenthesis-string) |
