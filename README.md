@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1205-defanging-an-ip-address](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1205-defanging-an-ip-address) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [1528-shuffle-string](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1528-shuffle-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1528-shuffle-string](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1528-shuffle-string) |
 | [1603-running-sum-of-1d-array](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1635-number-of-good-pairs) |
 | [1677-matrix-diagonal-sum](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1677-matrix-diagonal-sum) |
