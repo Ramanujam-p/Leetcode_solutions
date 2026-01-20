@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3462-vowels-game-in-a-string](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3462-vowels-game-in-a-string) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 | [3567-convert-date-to-binary](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3567-convert-date-to-binary) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3242-count-elements-with-maximum-frequency](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3797-design-spreadsheet](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3797-design-spreadsheet) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -446,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2540-minimum-common-value) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2729-check-if-the-number-is-fascinating) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3797-design-spreadsheet](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -473,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Geometry
@@ -781,6 +785,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2491-smallest-even-multiple](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2507-number-of-common-factors) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3995-gcd-of-odd-and-even-sums) |
 ## Combinatorics
