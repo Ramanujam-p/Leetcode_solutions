@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3371-harshad-number](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3371-harshad-number) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3462-vowels-game-in-a-string](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3462-vowels-game-in-a-string) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
@@ -450,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2540-minimum-common-value) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2729-check-if-the-number-is-fascinating) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3668-restore-finishing-order](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3668-restore-finishing-order) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
