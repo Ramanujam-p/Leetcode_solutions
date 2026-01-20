@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1528-shuffle-string](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1528-shuffle-string) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -483,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1635-number-of-good-pairs](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1635-number-of-good-pairs) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1748-sum-of-unique-elements](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1748-sum-of-unique-elements) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2053-kth-distinct-string-in-an-array) |
