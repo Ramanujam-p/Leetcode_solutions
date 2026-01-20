@@ -315,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2836-neither-minimum-nor-maximum](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2836-neither-minimum-nor-maximum) |
 | [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3000-maximum-area-of-longest-diagonal-rectangle) |
 | [3024-type-of-triangle](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3024-type-of-triangle) |
+| [3162-find-the-number-of-good-pairs-i](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -453,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2540-minimum-common-value) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2729-check-if-the-number-is-fascinating) |
 | [3146-permutation-difference-between-two-strings](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3146-permutation-difference-between-two-strings) |
+| [3162-find-the-number-of-good-pairs-i](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
