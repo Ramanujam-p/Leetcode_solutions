@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2053-kth-distinct-string-in-an-array) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2128-reverse-prefix-of-word](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2128-reverse-prefix-of-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-kth-distinct-string-in-an-array](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -415,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-sort-array-by-parity-ii](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2128-reverse-prefix-of-word](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2128-reverse-prefix-of-word) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
