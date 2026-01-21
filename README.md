@@ -339,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3663-find-the-least-frequent-digit](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3663-find-the-least-frequent-digit) |
 | [3668-restore-finishing-order](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3668-restore-finishing-order) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
+| [3701-compute-alternating-sum](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3701-compute-alternating-sum) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3731-find-missing-elements](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3731-find-missing-elements) |
 | [3797-design-spreadsheet](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3797-design-spreadsheet) |
@@ -826,6 +827,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2324-find-triangular-sum-of-an-array](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3498-reverse-degree-of-a-string](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3498-reverse-degree-of-a-string) |
+| [3701-compute-alternating-sum](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3701-compute-alternating-sum) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Number Theory
 |  |
