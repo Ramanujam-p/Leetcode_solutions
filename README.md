@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0367-valid-perfect-square) |
+| [0374-guess-number-higher-or-lower](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0704-binary-search) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -872,4 +873,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
