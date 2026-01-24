@@ -293,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1470-shuffle-the-array) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -713,6 +714,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -794,6 +796,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0506-relative-ranks](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0506-relative-ranks) |
 | [0948-sort-an-array](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0948-sort-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Merge Sort
 |  |
