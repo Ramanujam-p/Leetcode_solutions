@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2418-sort-the-people) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3146-permutation-difference-between-two-strings](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3146-permutation-difference-between-two-strings) |
 | [3396-valid-word](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3396-valid-word) |
 | [3451-string-compression-iii](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3451-string-compression-iii) |
@@ -499,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2729-check-if-the-number-is-fascinating](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2729-check-if-the-number-is-fascinating) |
 | [2965-find-missing-and-repeated-values](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3146-permutation-difference-between-two-strings](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3146-permutation-difference-between-two-strings) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3242-count-elements-with-maximum-frequency) |
