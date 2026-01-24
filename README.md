@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0709-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0782-jewels-and-stones) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1159-smallest-subsequence-of-distinct-characters) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1205-defanging-an-ip-address](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1205-defanging-an-ip-address) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1115-valid-boomerang](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1115-valid-boomerang) |
 | [1137-height-checker](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1137-height-checker) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1207-unique-number-of-occurrences](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -470,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0782-jewels-and-stones) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1207-unique-number-of-occurrences](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -526,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1394-find-lucky-integer-in-an-array) |
