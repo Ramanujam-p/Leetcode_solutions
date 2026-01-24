@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
+| [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2351-first-letter-to-appear-twice](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [2418-sort-the-people](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2418-sort-the-people) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
@@ -488,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
+| [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -798,6 +800,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0204-count-primes) |
 | [2037-count-square-sum-triples](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2037-count-square-sum-triples) |
 | [2083-three-divisors](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2083-three-divisors) |
+| [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2507-number-of-common-factors](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2507-number-of-common-factors) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 ## Heap (Priority Queue)
