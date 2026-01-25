@@ -332,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2206-divide-array-into-equal-pairs) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -751,6 +752,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2418-sort-the-people](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2418-sort-the-people) |
@@ -775,6 +777,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1975-maximum-matrix-sum](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1975-maximum-matrix-sum) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 ## Memoization
