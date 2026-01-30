@@ -307,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1389-create-target-array-in-the-given-order](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1390-four-divisors](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1390-four-divisors) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -895,6 +896,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0415-add-strings) |
 | [0657-robot-return-to-origin](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0657-robot-return-to-origin) |
 | [0898-transpose-matrix](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0898-transpose-matrix) |
+| [1389-create-target-array-in-the-given-order](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1642-water-bottles](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1642-water-bottles) |
 | [1806-count-of-matches-in-tournament](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1806-count-of-matches-in-tournament) |
 | [1929-concatenation-of-array](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1929-concatenation-of-array) |
