@@ -363,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2836-neither-minimum-nor-maximum](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2836-neither-minimum-nor-maximum) |
 | [2965-find-missing-and-repeated-values](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3000-maximum-area-of-longest-diagonal-rectangle) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3024-type-of-triangle](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3024-type-of-triangle) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -779,6 +780,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2418-sort-the-people) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2836-neither-minimum-nor-maximum](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2836-neither-minimum-nor-maximum) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3024-type-of-triangle](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3024-type-of-triangle) |
 | [3467-transform-array-by-parity](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3467-transform-array-by-parity) |
 | [3536-maximum-product-of-two-digits](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3536-maximum-product-of-two-digits) |
@@ -847,6 +849,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2507-number-of-common-factors](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2507-number-of-common-factors) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
