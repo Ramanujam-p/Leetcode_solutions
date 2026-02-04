@@ -12,8 +12,6 @@ public:
         return r;
     }
     bool isSameAfterReversals(int num) {
-         int a = r(num);
-         if(num==r(a)) return true;
-         return false;
+         return r(r(num)) == num;
     }
 };
