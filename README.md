@@ -362,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2540-minimum-common-value) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -923,6 +924,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3379-transformed-array](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3379-transformed-array) |
 | [3498-reverse-degree-of-a-string](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3498-reverse-degree-of-a-string) |
