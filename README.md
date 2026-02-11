@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1806-count-of-matches-in-tournament](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1806-count-of-matches-in-tournament) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1837-sum-of-digits-in-base-k](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1837-sum-of-digits-in-base-k) |
+| [1903-largest-odd-number-in-string](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1704-determine-if-string-halves-are-alike](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1796-second-largest-digit-in-a-string) |
+| [1903-largest-odd-number-in-string](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -812,6 +814,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1323-maximum-69-number](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1323-maximum-69-number) |
+| [1903-largest-odd-number-in-string](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1975-maximum-matrix-sum](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1975-maximum-matrix-sum) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
