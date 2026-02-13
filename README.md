@@ -249,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0066-plus-one) |
@@ -905,6 +906,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0022-generate-parentheses) |
+| [0046-permutations](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0090-subsets-ii) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2802-find-the-punishment-number-of-an-integer) |
