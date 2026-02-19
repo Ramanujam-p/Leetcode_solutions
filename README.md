@@ -372,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2836-neither-minimum-nor-maximum](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2836-neither-minimum-nor-maximum) |
 | [2965-find-missing-and-repeated-values](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3000-maximum-area-of-longest-diagonal-rectangle) |
@@ -869,6 +870,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2507-number-of-common-factors](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2507-number-of-common-factors) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Heap (Priority Queue)
 |  |
