@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0633-sum-of-square-numbers) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0915-generate-random-point-in-a-circle](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0915-generate-random-point-in-a-circle) |
 | [0989-add-to-array-form-of-integer](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0989-add-to-array-form-of-integer) |
@@ -746,6 +747,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0645-set-mismatch](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0645-set-mismatch) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
