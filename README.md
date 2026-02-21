@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0415-add-strings) |
+| [0443-string-compression](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0504-base-7](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0504-base-7) |
 | [0520-detect-capital](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0520-detect-capital) |
@@ -465,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0392-is-subsequence) |
+| [0443-string-compression](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0443-string-compression) |
 | [0541-reverse-string-ii](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0633-sum-of-square-numbers](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0633-sum-of-square-numbers) |
