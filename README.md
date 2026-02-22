@@ -755,6 +755,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1610-xor-operation-in-an-array](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1610-xor-operation-in-an-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2206-divide-array-into-equal-pairs) |
 | [2351-first-letter-to-appear-twice](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2351-first-letter-to-appear-twice) |
+| [3827-count-monobit-integers](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3827-count-monobit-integers) |
 ## Sorting
 |  |
 | ------- |
@@ -881,6 +882,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3827-count-monobit-integers](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3827-count-monobit-integers) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
