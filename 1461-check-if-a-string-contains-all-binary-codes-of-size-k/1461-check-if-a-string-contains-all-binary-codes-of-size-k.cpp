@@ -6,6 +6,6 @@ public:
          unordered_set<string> r;
          for(int i=0;i<=n-k;i++)
             r.insert(s.substr(i,k));
-         return r.size()== (int) pow(2,k);
+         return r.size()== 1<<k;
     }
 };
