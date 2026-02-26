@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1205-defanging-an-ip-address](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1205-defanging-an-ip-address) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1528-shuffle-string](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1528-shuffle-string) |
@@ -764,6 +765,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0868-binary-gap](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0868-binary-gap) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1610-xor-operation-in-an-array](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1610-xor-operation-in-an-array) |
@@ -951,6 +953,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0657-robot-return-to-origin) |
 | [0898-transpose-matrix](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0898-transpose-matrix) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1389-create-target-array-in-the-given-order) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1642-water-bottles](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1642-water-bottles) |
 | [1806-count-of-matches-in-tournament](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1806-count-of-matches-in-tournament) |
 | [1929-concatenation-of-array](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1929-concatenation-of-array) |
