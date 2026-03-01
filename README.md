@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1528-shuffle-string](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1528-shuffle-string) |
 | [1556-thousand-separator](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1556-thousand-separator) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1796-second-largest-digit-in-a-string) |
@@ -847,6 +848,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1323-maximum-69-number](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1323-maximum-69-number) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1903-largest-odd-number-in-string](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1975-maximum-matrix-sum](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1975-maximum-matrix-sum) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
