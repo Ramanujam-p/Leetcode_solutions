@@ -1,3 +1,8 @@
 /* Write your PL/SQL query statement below */
-SELECT MAX(SALARY) AS SecondHighestSalary FROM EMPLOYEE
-WHERE SALARY < (SELECT MAX(SALARY) FROM EMPLOYEE);
+
+    SELECT MAX(Salary) AS SecondHighestSalary
+    FROM Employee
+    WHERE Salary < (
+        SELECT MAX(Salary) FROM
+        Employee
+    );
