@@ -1060,6 +1060,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1873-calculate-special-bonus](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1873-calculate-special-bonus) |
 | [1965-employees-with-missing-information](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1965-employees-with-missing-information) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
+| [3436-find-valid-emails](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3436-find-valid-emails) |
 ## Rolling Hash
 |  |
 | ------- |
