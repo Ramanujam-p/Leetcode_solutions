@@ -1032,6 +1032,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0584-find-customer-referee](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0584-find-customer-referee) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [1693-daily-leads-and-partners](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1693-daily-leads-and-partners) |
+| [1741-find-total-time-spent-by-each-employee](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1741-find-total-time-spent-by-each-employee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1757-recyclable-and-low-fat-products) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Rolling Hash
