@@ -1,0 +1,4 @@
+/* Write your PL/SQL query statement below */
+SELECT Customer_id FROM Customer
+GROUP BY customer_id
+HAVING COUNT(DISTINCT product_key)=(SELECT COUNT(*) FROM Product);
