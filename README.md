@@ -361,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1975-maximum-matrix-sum](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1975-maximum-matrix-sum) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2016-maximum-difference-between-increasing-elements](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
