@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-determine-color-of-a-chessboard-square](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
