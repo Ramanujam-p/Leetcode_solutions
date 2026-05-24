@@ -347,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1306-jump-game-iii](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1306-jump-game-iii) |
 | [1313-decompress-run-length-encoded-list](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1313-decompress-run-length-encoded-list) |
+| [1340-jump-game-v](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1345-jump-game-iv) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -481,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0678-valid-parenthesis-string) |
 | [1086-divisor-game](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1086-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1137-n-th-tribonacci-number) |
+| [1340-jump-game-v](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1340-jump-game-v) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1931-painting-a-grid-with-three-different-colors](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1931-painting-a-grid-with-three-different-colors) |
 ## Two Pointers
@@ -862,6 +864,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1137-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1200-minimum-absolute-difference) |
+| [1340-jump-game-v](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1340-jump-game-v) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
