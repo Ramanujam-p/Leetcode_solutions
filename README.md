@@ -416,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2784-check-if-array-is-good](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2784-check-if-array-is-good) |
 | [2836-neither-minimum-nor-maximum](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2836-neither-minimum-nor-maximum) |
 | [2965-find-missing-and-repeated-values](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -608,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2540-minimum-common-value) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2729-check-if-the-number-is-fascinating) |
+| [2784-check-if-array-is-good](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2784-check-if-array-is-good) |
 | [2965-find-missing-and-repeated-values](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -889,6 +891,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2418-sort-the-people](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2418-sort-the-people) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+| [2784-check-if-array-is-good](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2784-check-if-array-is-good) |
 | [2836-neither-minimum-nor-maximum](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2836-neither-minimum-nor-maximum) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
