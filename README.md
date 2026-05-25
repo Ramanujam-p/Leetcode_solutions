@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0915-generate-random-point-in-a-circle](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0915-generate-random-point-in-a-circle) |
+| [0932-beautiful-array](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0932-beautiful-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0989-add-to-array-form-of-integer) |
 | [1018-largest-perimeter-triangle](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1086-divisor-game](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1086-divisor-game) |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0898-transpose-matrix](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0898-transpose-matrix) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [0932-beautiful-array](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0932-beautiful-array) |
 | [0941-sort-array-by-parity](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0948-sort-an-array) |
 | [0958-sort-array-by-parity-ii](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0958-sort-array-by-parity-ii) |
@@ -692,6 +694,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
+| [0932-beautiful-array](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0932-beautiful-array) |
 | [0948-sort-an-array](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0948-sort-an-array) |
 ## Stack
 |  |
