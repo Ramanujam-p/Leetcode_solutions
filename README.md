@@ -370,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-sort-array-by-increasing-frequency](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1677-matrix-diagonal-sum](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1677-matrix-diagonal-sum) |
+| [1696-jump-game-vi](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1696-jump-game-vi) |
 | [1748-sum-of-unique-elements](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1748-sum-of-unique-elements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -484,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1340-jump-game-v](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1340-jump-game-v) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
+| [1696-jump-game-vi](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1696-jump-game-vi) |
 | [1931-painting-a-grid-with-three-different-colors](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1931-painting-a-grid-with-three-different-colors) |
 ## Two Pointers
 |  |
@@ -792,6 +794,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [1696-jump-game-vi](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1696-jump-game-vi) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Sliding Window
 |  |
@@ -974,6 +977,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0506-relative-ranks) |
 | [0948-sort-an-array](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0948-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1696-jump-game-vi](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1696-jump-game-vi) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Merge Sort
@@ -1146,4 +1150,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0014-longest-common-prefix) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+## Monotonic Queue
+|  |
+| ------- |
+| [1696-jump-game-vi](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1696-jump-game-vi) |
 <!---LeetCode Topics End-->
