@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0394-decode-string) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0415-add-strings) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0233-number-of-digit-one](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0233-number-of-digit-one) |
 | [0326-power-of-three](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0342-power-of-four) |
+| [0394-decode-string](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0509-fibonacci-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Array
@@ -710,6 +712,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0316-remove-duplicate-letters](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0316-remove-duplicate-letters) |
+| [0394-decode-string](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0394-decode-string) |
 | [0503-next-greater-element-ii](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0678-valid-parenthesis-string) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0775-n-ary-tree-preorder-traversal) |
