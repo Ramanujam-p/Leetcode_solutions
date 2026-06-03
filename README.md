@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0067-add-binary) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0066-plus-one) |
@@ -457,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0073-set-matrix-zeroes) |
 | [0898-transpose-matrix](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0898-transpose-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
