@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0349-intersection-of-two-arrays](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0367-valid-perfect-square) |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0347-top-k-frequent-elements](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -709,6 +711,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0347-top-k-frequent-elements](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0932-beautiful-array](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0932-beautiful-array) |
 | [0948-sort-an-array](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0948-sort-an-array) |
@@ -1014,6 +1017,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0148-sort-list) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0948-sort-an-array](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0948-sort-an-array) |
 ## Bucket Sort
 |  |
@@ -1186,4 +1190,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1696-jump-game-vi](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1696-jump-game-vi) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Segment Tree
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Ordered Set
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 <!---LeetCode Topics End-->
