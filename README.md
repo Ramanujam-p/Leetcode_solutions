@@ -400,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1975-maximum-matrix-sum](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1975-maximum-matrix-sum) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [1991-find-the-middle-index-in-array](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2053-kth-distinct-string-in-an-array) |
@@ -1113,6 +1114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1603-running-sum-of-1d-array](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1603-running-sum-of-1d-array) |
 | [1871-jump-game-vii](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1871-jump-game-vii) |
+| [1991-find-the-middle-index-in-array](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2574-left-and-right-sum-differences) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
