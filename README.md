@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0441-arranging-coins) |
+| [0493-reverse-pairs](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0493-reverse-pairs) |
 | [0633-sum-of-square-numbers](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0454-4sum-ii](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0454-4sum-ii) |
 | [0485-max-consecutive-ones](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0485-max-consecutive-ones) |
+| [0493-reverse-pairs](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0493-reverse-pairs) |
 | [0503-next-greater-element-ii](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0506-relative-ranks) |
 | [0523-continuous-subarray-sum](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0523-continuous-subarray-sum) |
@@ -724,6 +726,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0347-top-k-frequent-elements](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
+| [0493-reverse-pairs](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0493-reverse-pairs) |
 | [0932-beautiful-array](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0932-beautiful-array) |
 | [0948-sort-an-array](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0948-sort-an-array) |
 ## Stack
@@ -1031,6 +1034,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0148-sort-list](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0148-sort-list) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0493-reverse-pairs](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0493-reverse-pairs) |
 | [0948-sort-an-array](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0948-sort-an-array) |
 ## Bucket Sort
 |  |
@@ -1211,12 +1215,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0493-reverse-pairs](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0493-reverse-pairs) |
 ## Segment Tree
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0493-reverse-pairs](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0493-reverse-pairs) |
 ## Ordered Set
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0493-reverse-pairs](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
