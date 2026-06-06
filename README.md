@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0069-sqrtx) |
@@ -495,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0119-pascals-triangle-ii) |
@@ -1107,6 +1109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0062-unique-paths) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Prefix Sum
