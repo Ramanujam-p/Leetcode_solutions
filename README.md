@@ -467,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3663-find-the-least-frequent-digit](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3663-find-the-least-frequent-digit) |
 | [3668-restore-finishing-order](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3668-restore-finishing-order) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3701-compute-alternating-sum](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3701-compute-alternating-sum) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3731-find-missing-elements](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3731-find-missing-elements) |
@@ -967,6 +968,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Memoization
 |  |
 | ------- |
@@ -1029,6 +1031,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1696-jump-game-vi](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1696-jump-game-vi) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Merge Sort
 |  |
 | ------- |
@@ -1221,6 +1224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0493-reverse-pairs](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0493-reverse-pairs) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Ordered Set
 |  |
 | ------- |
