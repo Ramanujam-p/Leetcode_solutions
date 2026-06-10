@@ -469,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3663-find-the-least-frequent-digit](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3663-find-the-least-frequent-digit) |
 | [3668-restore-finishing-order](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3668-restore-finishing-order) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
+| [3689-maximum-total-subarray-value-i](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3701-compute-alternating-sum](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3701-compute-alternating-sum) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
@@ -971,6 +972,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
+| [3689-maximum-total-subarray-value-i](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Memoization
 |  |
