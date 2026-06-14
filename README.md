@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3462-vowels-game-in-a-string](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3462-vowels-game-in-a-string) |
 | [3536-maximum-product-of-two-digits](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3567-convert-date-to-binary](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3567-convert-date-to-binary) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3663-find-the-least-frequent-digit](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3663-find-the-least-frequent-digit) |
@@ -472,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3467-transform-array-by-parity](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3467-transform-array-by-parity) |
 | [3488-closest-equal-element-queries](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3488-closest-equal-element-queries) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3637-trionic-array-i](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3637-trionic-array-i) |
@@ -533,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1696-jump-game-vi](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1696-jump-game-vi) |
 | [1871-jump-game-vii](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1871-jump-game-vii) |
 | [1931-painting-a-grid-with-three-different-colors](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1931-painting-a-grid-with-three-different-colors) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Two Pointers
@@ -792,6 +795,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0965-univalued-binary-tree](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/0965-univalued-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -812,6 +816,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1306-jump-game-iii](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1306-jump-game-iii) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Binary Tree
 |  |
 | ------- |
@@ -898,6 +903,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2206-divide-array-into-equal-pairs) |
 | [2351-first-letter-to-appear-twice](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/2351-first-letter-to-appear-twice) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3827-count-monobit-integers](https://github.com/Ramanujam-p/Leetcode_solutions/tree/master/3827-count-monobit-integers) |
 ## Sorting
 |  |
